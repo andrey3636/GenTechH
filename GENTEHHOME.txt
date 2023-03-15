@@ -8,7 +8,7 @@ Price between 5 and 25;
 
  (2) добавьте произвольный товар в таблицу Products
 
-INSERT into Products(ProductName, SupplierID, CategoryID, Unit, Price) values('Kakaomasse', 1, 2, '5 boxes * 10 bags', 50)
+INSERT into Products(ProductName, SupplierID, CategoryID, Unit, Price) values('Coca-Cola', 1, 2, '5 boxes * 5 bags', 25)
 
 
 (3) у клиента с ID 1 измените адрес на произвольный
